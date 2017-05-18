@@ -5,6 +5,7 @@ jQuery Marker
 Version 1.0.0
 
 Everyone welcomes improving the code. Please help me.
+
 Copyright &copy; 2016-2017 Daesung Jeon (https://daesuni.github.io/).
 MIT Open Source license applies.
 
