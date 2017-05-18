@@ -290,7 +290,7 @@ img {
 	display: flex;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
-	/* margin-left: -40px */
+	margin-left: -40px
 }
 
 .mv-g--centered {
