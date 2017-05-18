@@ -4,6 +4,7 @@ jQuery Marker
 
 Version 1.0.0
 
+Everyone welcomes improving the code. Please help me.
 Copyright &copy; 2016-2017 Daesung Jeon (https://daesuni.github.io/).
 MIT Open Source license applies.
 
@@ -17,7 +18,7 @@ Features
 *	Css and js are customizable.
 *   Color change is prototype and instability.
 *   There is a possibility of other script conflicts since refreshing whole html.
-*   We recommend setting it to wrapper <div> tag.
+*   We recommend setting it to wrapper `<div>` tag.
 
 p.s. All the plugins optionally supported are MIT licensed, so as safe to use as the Marker plugin itself.
 
