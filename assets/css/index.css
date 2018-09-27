@@ -229,7 +229,7 @@ html {
 
 @media screen and (min-width: 650px) {
 	html {
-		font-size: 21px
+		font-size: 18px;
 	}
 }
 
@@ -557,7 +557,7 @@ img {
 .article code, .article kbd {
 	background: #f3f3f1;
 	font-family: "Courier new", monospace;
-	font-size: 90%;
+	font-size: 75%;
 	letter-spacing: -0.025ch;
 	padding-left: 0.25ch;
 	padding-right: 0.25ch
@@ -808,7 +808,7 @@ html:not (.wf-active ) .link--underlined--s {
 
 @media screen and (min-width: 1000px) {
 	.title:first-line {
-		font-size: 100px
+		font-size: 75px;
 	}
 }
 
