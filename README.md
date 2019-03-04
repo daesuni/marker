@@ -1,7 +1,5 @@
 jQuery Marker
 ================
-![main](/main.png)
-
 Version 1.0.0
 
 Everyone welcomes improving the code !
